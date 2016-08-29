@@ -161,7 +161,7 @@ $Gravatar = \ngfw\Recipe::getGravatar(
         "class" => "Gravatar"
     )
 );
-ehco $Gravatar;
+echo $Gravatar;
 //Outputs: <img src="http://www.gravatar.com/avatar.php?gravatar_id=9d9d478c3b65d4046a84cf84b4c8bf46&default=monsterid&size=200&rating=x" width="200px" height="200px" class="Gravatar" />'
 ```
 ![NG Gravatar](http://www.gravatar.com/avatar.php?gravatar_id=9d9d478c3b65d4046a84cf84b4c8bf46&default=monsterid&size=200&rating=x)
